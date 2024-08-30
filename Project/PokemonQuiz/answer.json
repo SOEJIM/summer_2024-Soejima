@@ -1,0 +1,606 @@
+{
+  "1": {
+    "image2": "001Bulbasaur.png",
+    "name": "フシギダネ"
+  },
+  "2": {
+    "image2": "002Ivysaur.png",
+    "name": "フシギソウ"
+  },
+  "3": {
+    "image2": "003Venusaur.png",
+    "name": "フシギバナ"
+  },
+  "4": {
+    "image2": "004Charmander.png",
+    "name": "ヒトカゲ"
+  },
+  "5": {
+    "image2": "005Charmeleon.png",
+    "name": "リザード"
+  },
+  "6": {
+    "image2": "006Charizard.png",
+    "name": "リザードン"
+  },
+  "7": {
+    "image2": "007Squirtle.png",
+    "name": "ゼニガメ"
+  },
+  "8": {
+    "image2": "008Wartortle.png",
+    "name": "カメール"
+  },
+  "9": {
+    "image2": "009Blastoise.png",
+    "name": "カメックス"
+  },
+  "10": {
+    "image2": "010Caterpie.png",
+    "name": "キャタピー"
+  },
+  "11": {
+    "image2": "011Metapod.png",
+    "name": "トランセル"
+  },
+  "12": {
+    "image2": "012Butterfree.png",
+    "name": "バタフリー"
+  },
+  "13": {
+    "image2": "013Weedle.png",
+    "name": "ビードル"
+  },
+  "14": {
+    "image2": "014Kakuna.png",
+    "name": "コクーン"
+  },
+  "15": {
+    "image2": "015Beedrill.png",
+    "name": "スピアー"
+  },
+  "16": {
+    "image2": "016Pidgey.png",
+    "name": "ポッポ"
+  },
+  "17": {
+    "image2": "017Pidgeotto.png",
+    "name": "ピジョン"
+  },
+  "18": {
+    "image2": "018Pidgeot.png",
+    "name": "ピジョット"
+  },
+  "19": {
+    "image2": "019Rattata.png",
+    "name": "コラッタ"
+  },
+  "20": {
+    "image2": "020Raticate.png",
+    "name": "ラッタ"
+  },
+  "21": {
+    "image2": "021Spearow.png",
+    "name": "オニスズメ"
+  },
+  "22": {
+    "image2": "022Fearow.png",
+    "name": "オニドリル"
+  },
+  "23": {
+    "image2": "023Ekans.png",
+    "name": "アーボ"
+  },
+  "24": {
+    "image2": "024Arbok.png",
+    "name": "アーボック"
+  },
+  "25": {
+    "image2": "025Pikachu.png",
+    "name": "ピカチュウ"
+  },
+  "26": {
+    "image2": "026Raichu.png",
+    "name": "ライチュウ"
+  },
+  "27": {
+    "image2": "027Sandshrew.png",
+    "name": "サンド"
+  },
+  "28": {
+    "image2": "028Sandslash.png",
+    "name": "サンドパン"
+  },
+  "29": {
+    "image2": "029Nidoran.png",
+    "name": "ニドラン♀"
+  },
+  "30": {
+    "image2": "030Nidorina.png",
+    "name": "ニドリーナ"
+  },
+  "31": {
+    "image2": "031Nidoqueen.png",
+    "name": "ニドクイン"
+  },
+  "32": {
+    "image2": "032Nidoran.png",
+    "name": "ニドラン♂"
+  },
+  "33": {
+    "image2": "033Nidorino.png",
+    "name": "ニドリーノ"
+  },
+  "34": {
+    "image2": "034Nidoking.png",
+    "name": "ニドキング"
+  },
+  "35": {
+    "image2": "035Clefairy.png",
+    "name": "ピッピ"
+  },
+  "36": {
+    "image2": "036Clefable.png",
+    "name": "ピクシー"
+  },
+  "37": {
+    "image2": "037Vulpix.png",
+    "name": "ロコン"
+  },
+  "38": {
+    "image2": "038Ninetales.png",
+    "name": "キュウコン"
+  },
+  "39": {
+    "image2": "039Jigglypuff.png",
+    "name": "プリン"
+  },
+  "40": {
+    "image2": "040Wigglytuff.png",
+    "name": "プクリン"
+  },
+  "41": {
+    "image2": "041Zubat.png",
+    "name": "ズバット"
+  },
+  "42": {
+    "image2": "042Golbat.png",
+    "name": "ゴルバット"
+  },
+  "43": {
+    "image2": "043Oddish.png",
+    "name": "ナゾノクサ"
+  },
+  "44": {
+    "image2": "044Gloom.png",
+    "name": "クサイハナ"
+  },
+  "45": {
+    "image2": "045Vileplume.png",
+    "name": "キレイハナ"
+  },
+  "46": {
+    "image2": "046Paras.png",
+    "name": "パラス"
+  },
+  "47": {
+    "image2": "047Parasect.png",
+    "name": "パラセクト"
+  },
+  "48": {
+    "image2": "048Venonat.png",
+    "name": "コンパン"
+  },
+  "49": {
+    "image2": "049Venomoth.png",
+    "name": "モルフォン"
+  },
+  "50": {
+    "image2": "050Diglett.png",
+    "name": "ディグダ"
+  },
+  "51": {
+    "image2": "051Dugtrio.png",
+    "name": "ダグトリオ"
+  },
+  "52": {
+    "image2": "052Meowth.png",
+    "name": "ニャース"
+  },
+  "53": {
+    "image2": "053Persian.png",
+    "name": "ペルシアン"
+  },
+  "54": {
+    "image2": "054Psyduck.png",
+    "name": "コダック"
+  },
+  "55": {
+    "image2": "055Golduck.png",
+    "name": "ゴルダック"
+  },
+  "56": {
+    "image2": "056Mankey.png",
+    "name": "マンキー"
+  },
+  "57": {
+    "image2": "057Primeape.png",
+    "name": "オコリザル"
+  },
+  "58": {
+    "image2": "058Growlithe.png",
+    "name": "ガーディ"
+  },
+  "59": {
+    "image2": "059Arcanine.png",
+    "name": "ウインディ"
+  },
+  "60": {
+    "image2": "060Poliwag.png",
+    "name": "ニョロモ"
+  },
+  "61": {
+    "image2": "061Poliwhirl.png",
+    "name": "ニョロゾ"
+  },
+  "62": {
+    "image2": "062Poliwrath.png",
+    "name": "ニョロボン"
+  },
+  "63": {
+    "image2": "063Abra.png",
+    "name": "ケーシィ"
+  },
+  "64": {
+    "image2": "064Kadabra.png",
+    "name": "ユンゲラー"
+  },
+  "65": {
+    "image2": "065Alakazam.png",
+    "name": "フーディン"
+  },
+  "66": {
+    "image2": "066Machop.png",
+    "name": "ワンリキー"
+  },
+  "67": {
+    "image2": "067Machoke.png",
+    "name": "ゴーリキー"
+  },
+  "68": {
+    "image2": "068Machamp.png",
+    "name": "カイリキー"
+  },
+  "69": {
+    "image2": "069Bellsprout.png",
+    "name": "マダツボミ"
+  },
+  "70": {
+    "image2": "070Weepinbell.png",
+    "name": "ウツドン"
+  },
+  "71": {
+    "image2": "071Victreebel.png",
+    "name": "ウツボット"
+  },
+  "72": {
+    "image2": "072Tentacool.png",
+    "name": "メノクラゲ"
+  },
+  "73": {
+    "image2": "073Tentacruel.png",
+    "name": "ドククラゲ"
+  },
+  "74": {
+    "image2": "074Geodude.png",
+    "name": "イシツブテ"
+  },
+  "75": {
+    "image2": "075Graveler.png",
+    "name": "ゴローン"
+  },
+  "76": {
+    "image2": "076Golem.png",
+    "name": "ゴローニャ"
+  },
+  "77": {
+    "image2": "077Ponyta.png",
+    "name": "ポニータ"
+  },
+  "78": {
+    "image2": "078Rapidash.png",
+    "name": "ギャロップ"
+  },
+  "79": {
+    "image2": "079Slowpoke.png",
+    "name": "ヤドン"
+  },
+  "80": {
+    "image2": "080Slowbro.png",
+    "name": "ヤドラン"
+  },
+  "81": {
+    "image2": "081Magnemite.png",
+    "name": "コイル"
+  },
+  "82": {
+    "image2": "082Magneton.png",
+    "name": "レアコイル"
+  },
+  "83": {
+    "image2": "083Farfetchd.png",
+    "name": "カモネギ"
+  },
+  "84": {
+    "image2": "084Doduo.png",
+    "name": "ドードー"
+  },
+  "85": {
+    "image2": "085Dodrio.png",
+    "name": "ドードリオ"
+  },
+  "86": {
+    "image2": "086Seel.png",
+    "name": "パウワウ"
+  },
+  "87": {
+    "image2": "087Dewgong.png",
+    "name": "ジュゴン"
+  },
+  "88": {
+    "image2": "088Grimer.png",
+    "name": "ベトベター"
+  },
+  "89": {
+    "image2": "089Muk.png",
+    "name": "ベトベタン"
+  },
+  "90": {
+    "image2": "090Shellder.png",
+    "name": "シェルダー"
+  },
+  "91": {
+    "image2": "091Cloyster.png",
+    "name": "パルシェン"
+  },
+  "92": {
+    "image2": "092Gastly.png",
+    "name": "ゴース"
+  },
+  "93": {
+    "image2": "093Haunter.png",
+    "name": "ゴースト"
+  },
+  "94": {
+    "image2": "094Gengar.png",
+    "name": "ゲンガー"
+  },
+  "95": {
+    "image2": "095Onix.png",
+    "name": "イワーク"
+  },
+  "96": {
+    "image2": "096Drowzee.png",
+    "name": "スリープ"
+  },
+  "97": {
+    "image2": "097Hypno.png",
+    "name": "スリーパー"
+  },
+  "98": {
+    "image2": "098Krabby.png",
+    "name": "クラブ"
+  },
+  "99": {
+    "image2": "099Kingler.png",
+    "name": "キングラー"
+  },
+  "100": {
+    "image2": "100Voltorb.png",
+    "name": "ビリリダマ"
+  },
+  "101": {
+    "image2": "101Electrode.png",
+    "name": "マルマイン"
+  },
+  "102": {
+    "image2": "102Exeggcute.png",
+    "name": "タマタマ"
+  },
+  "103": {
+    "image2": "103Exeggutor.png",
+    "name": "ナッシー"
+  },
+  "104": {
+    "image2": "104Cubone.png",
+    "name": "カラカラ"
+  },
+  "105": {
+    "image2": "105Marowak.png",
+    "name": "ガラガラ"
+  },
+  "106": {
+    "image2": "106Hitmonlee.png",
+    "name": "サワムラー"
+  },
+  "107": {
+    "image2": "107Hitmonchan.png",
+    "name": "エビワラー"
+  },
+  "108": {
+    "image2": "108Lickitung.png",
+    "name": "ベロリンガ"
+  },
+  "109": {
+    "image2": "109Koffing.png",
+    "name": "ドガース"
+  },
+  "110": {
+    "image2": "110Weezing.png",
+    "name": "マタドガス"
+  },
+  "111": {
+    "image2": "111Rhyhorn.png",
+    "name": "サイホーン"
+  },
+  "112": {
+    "image2": "112Rhydon.png",
+    "name": "サイドン"
+  },
+  "113": {
+    "image2": "113Chansey.png",
+    "name": "ラッキー"
+  },
+  "114": {
+    "image2": "114Tangela.png",
+    "name": "モンジャラ"
+  },
+  "115": {
+    "image2": "115Kangaskhan.png",
+    "name": "ガルーラ"
+  },
+  "116": {
+    "image2": "116Horsea.png",
+    "name": "タッツー"
+  },
+  "117": {
+    "image2": "117Seadra.png",
+    "name": "シードラ"
+  },
+  "118": {
+    "image2": "118Goldeen.png",
+    "name": "トサキント"
+  },
+  "119": {
+    "image2": "119Seaking.png",
+    "name": "アズマオウ"
+  },
+  "120": {
+    "image2": "120Staryu.png",
+    "name": "ヒトデマン"
+  },
+  "121": {
+    "image2": "121Starmie.png",
+    "name": "スターミー"
+  },
+  "122": {
+    "image2": "122Mr_Mime.png",
+    "name": "バリヤード"
+  },
+  "123": {
+    "image2": "123Scyther.png",
+    "name": "ストライク"
+  },
+  "124": {
+    "image2": "124Jynx.png",
+    "name": "ルージュラ"
+  },
+  "125": {
+    "image2": "125Electabuzz.png",
+    "name": "エレブー"
+  },
+  "126": {
+    "image2": "126Magmar.png",
+    "name": "ブーバー"
+  },
+  "127": {
+    "image2": "127Pinsir.png",
+    "name": "カイロス"
+  },
+  "128": {
+    "image2": "128Tauros.png",
+    "name": "ケンタロス"
+  },
+  "129": {
+    "image2": "129Magikarp.png",
+    "name": "コイキング"
+  },
+  "130": {
+    "image2": "130Gyarados.png",
+    "name": "ギャラドス"
+  },
+  "131": {
+    "image2": "131Lapras.png",
+    "name": "ラプラス"
+  },
+  "132": {
+    "image2": "132Ditto.png",
+    "name": "メタモン"
+  },
+  "133": {
+    "image2": "133Eevee.png",
+    "name": "イーブイ"
+  },
+  "134": {
+    "image2": "134Vaporeon.png",
+    "name": "シャワーズ"
+  },
+  "135": {
+    "image2": "135Jolteon.png",
+    "name": "サンダース"
+  },
+  "136": {
+    "image2": "136Flareon.png",
+    "name": "ブースター"
+  },
+  "137": {
+    "image2": "137Porygon.png",
+    "name": "ポリゴン"
+  },
+  "138": {
+    "image2": "138Omanyte.png",
+    "name": "オムナイト"
+  },
+  "139": {
+    "image2": "139Omastar.png",
+    "name": "オムスター"
+  },
+  "140": {
+    "image2": "140Kabuto.png",
+    "name": "カブト"
+  },
+  "141": {
+    "image2": "141Kabutops.png",
+    "name": "カブトプス"
+  },
+  "142": {
+    "image2": "142Aerodactyl.png",
+    "name": "プテラ"
+  },
+  "143": {
+    "image2": "143Snorlax.png",
+    "name": "カビゴン"
+  },
+  "144": {
+    "image2": "144Articuno.png",
+    "name": "フリーザー"
+  },
+  "145": {
+    "image2": "145Zapdos.png",
+    "name": "サンダー"
+  },
+  "146": {
+    "image2": "146Moltres.png",
+    "name": "ファイヤー"
+  },
+  "147": {
+    "image2": "147Dratini.png",
+    "name": "ミニリュウ"
+  },
+  "148": {
+    "image2": "148Dragonair.png",
+    "name": "ハクリュー"
+  },
+  "149": {
+    "image2": "149Dragonite.png",
+    "name": "カイリュー"
+  },
+  "150": {
+    "image2": "150Mewtwo.png",
+    "name": "ミュウツー"
+  },
+  "151": {
+    "image2": "151Mew.png",
+    "name": "ミュウ"
+  }
+}
