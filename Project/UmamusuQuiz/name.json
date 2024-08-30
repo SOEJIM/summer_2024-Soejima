@@ -1,0 +1,482 @@
+{
+  "1": {
+    "image": "admirevega_icon_kiritori.png",
+    "name": "アドマイヤベガ"
+  },
+  "2": {
+    "image": "agnesdigital_icon_kiritori.png",
+    "name": "アグネスデジタル"
+  },
+  "3": {
+    "image": "agnestachyon_icon_kiritori.png",
+    "name": "アグネスタキオン"
+  },
+  "4": {
+    "image": "airgroove_icon_kiritori.png",
+    "name": "エアグルーヴ"
+  },
+  "5": {
+    "image": "airmessiah_icon_kiritori.png",
+    "name": "エアメサイア"
+  },
+  "6": {
+    "image": "airshakur_icon_kiritori.png",
+    "name": "エアシャカール"
+  },
+  "7": {
+    "image": "astonmachan_icon_kiritori.png",
+    "name": "アストンマーチャン"
+  },
+  "8": {
+    "image": "bamboomemory_icon_kiritori.png",
+    "name": "バンブーメモリー"
+  },
+  "9": {
+    "image": "believe_icon_kiritori.png",
+    "name": "ビリーヴ"
+  },
+  "10": {
+    "image": "bikopegasus_icon_kiritori.png",
+    "name": "ビコーペガサス"
+  },
+  "11": {
+    "image": "biwahayahide_icon_kiritori.png",
+    "name": "ビワハヤヒデ"
+  },
+  "12": {
+    "image": "bubblegumfellow_icon_kiritori.png",
+    "name": "バブルガムフェロー"
+  },
+  "13": {
+    "image": "buenavista_icon_kiritori.png",
+    "name": "ブエナビスタ"
+  },
+  "14": {
+    "image": "calstonelighto_icon_kiritori.png",
+    "name": "カルストンライトオ"
+  },
+  "15": {
+    "image": "cesario_icon_kiritori.png",
+    "name": "シーザリオ"
+  },
+  "16": {
+    "image": "chevalgrand_icon_kiritori.png",
+    "name": "シュヴァルグラン"
+  },
+  "17": {
+    "image": "copanorickey_icon_kiritori.png",
+    "name": "コパノリッキー"
+  },
+  "18": {
+    "image": "currenchan_icon_kiritori.png",
+    "name": "カレンチャン"
+  },
+  "19": {
+    "image": "daiichiruby_icon_kiritori.png",
+    "name": "ダイイチルビー"
+  },
+  "20": {
+    "image": "daitakuhelios_icon_kiritori.png",
+    "name": "ダイタクヘリオス"
+  },
+  "21": {
+    "image": "daiwascarlet_icon_kiritori.png",
+    "name": "ダイワスカーレット"
+  },
+  "22": {
+    "image": "dantsuflame_icon_kiritori.png",
+    "name": "ダンツフレーム"
+  },
+  "23": {
+    "image": "daringheart_icon_kiritori.png",
+    "name": "デアリングハート"
+  },
+  "24": {
+    "image": "daringtact_icon_kiritori.png",
+    "name": "デアリングハート"
+  },
+  "25": {
+    "image": "dreamjourney_icon_kiritori.png",
+    "name": "ドリームジャーニー"
+  },
+  "26": {
+    "image": "duramente_icon_kiritori.png",
+    "name": "ドュラメンテ"
+  },
+  "27": {
+    "image": "durandal_icon_kiritori.png",
+    "name": "デュランダル"
+  },
+  "28": {
+    "image": "eishinflash_icon_kiritori.png",
+    "name": "エイシンフラッシュ"
+  },
+  "29": {
+    "image": "elcondorpasa_icon_kiritori.png",
+    "name": "エルコンドルパサー"
+  },
+  "30": {
+    "image": "espoircity_icon_kiritori.png",
+    "name": "エスポワールシチー"
+  },
+  "31": {
+    "image": "finemotion_icon_kiritori.png",
+    "name": "ファインモーション"
+  },
+  "32": {
+    "image": "fujikiseki_icon_kiritori.png",
+    "name": "フジキセキ"
+  },
+  "33": {
+    "image": "furioso_icon_kiritori.png",
+    "name": "フリオーソ"
+  },
+  "34": {
+    "image": "gentildonna_icon_kiritori.png",
+    "name": "ジェンティルドンナ"
+  },
+  "35": {
+    "image": "goldcity_icon_kiritori.png",
+    "name": "ゴールドシチー"
+  },
+  "36": {
+    "image": "goldship_icon_kiritori.png",
+    "name": "ゴールドシップ"
+  },
+  "37": {
+    "image": "grasswonder_icon_kiritori.png",
+    "name": "グラスワンダー"
+  },
+  "38": {
+    "image": "haruurara_icon_kiritori.png",
+    "name": "ハルウララ"
+  },
+  "39": {
+    "image": "hishiakebono_icon_kiritori.png",
+    "name": "ヒシアケボノ"
+  },
+  "40": {
+    "image": "hishiamazon_icon_kiritori.png",
+    "name": "ヒシアマゾン"
+  },
+  "41": {
+    "image": "hishimiracle_icon_kiritori.png",
+    "name": "ヒシミラクル"
+  },
+  "42": {
+    "image": "hokkotarumae_icon_kiritori.png",
+    "name": "ホッコータルマエ"
+  },
+  "43": {
+    "image": "ikunodictus_icon_kiritori.png",
+    "name": "イクノディクタス"
+  },
+  "44": {
+    "image": "inarione_icon_kiritori.png",
+    "name": "イナリワン"
+  },
+  "45": {
+    "image": "inesfujin_icon_kiritori.png",
+    "name": "アイネスフウジン"
+  },
+  "46": {
+    "image": "junglepocket_icon_kiritori.png",
+    "name": "ジャングルポケット"
+  },
+  "47": {
+    "image": "katsuragiace_icon_kiritori.png",
+    "name": "カツラギエース"
+  },
+  "48": {
+    "image": "kawakamiprincess_icon_kiritori.png",
+    "name": "カワカミプリンセス"
+  },
+  "49": {
+    "image": "kinghalo_icon_kiritori.png",
+    "name": "キングヘイロー"
+  },
+  "50": {
+    "image": "kitasanblack_icon_kiritori.png",
+    "name": "キタサンブラック"
+  },
+  "51": {
+    "image": "ksmiracle_icon_kiritori.png",
+    "name": "ケイエスミラクル"
+  },
+  "52": {
+    "image": "manhattancafe_icon_kiritori.png",
+    "name": "マンハッタンカフェ"
+  },
+  "53": {
+    "image": "maruzensky_icon_kiritori.png",
+    "name": "マルゼンスキー"
+  },
+  "54": {
+    "image": "marveloussunday_icon_kiritori.png",
+    "name": "マーベラスサンデー"
+  },
+  "55": {
+    "image": "matikanefukukitaru_icon_kiritori.png",
+    "name": "マチカネフクキタル"
+  },
+  "56": {
+    "image": "matikanetannhauser_icon_kiritori.png",
+    "name": "マチカネタンホイザ"
+  },
+  "57": {
+    "image": "mayanotopgun_icon_kiritori.png",
+    "name": "マヤノトップガン"
+  },
+  "58": {
+    "image": "meishodoto_icon_kiritori.png",
+    "name": "メイショウドトウ"
+  },
+  "59": {
+    "image": "mejiroardan_icon_kiritori.png",
+    "name": "メジロアルダン"
+  },
+  "60": {
+    "image": "mejirobright_icon_kiritori.png",
+    "name": "メジロブライト"
+  },
+  "61": {
+    "image": "mejirodober_icon_kiritori.png",
+    "name": "メジロドーベル"
+  },
+  "62": {
+    "image": "mejiromcqueen_icon_kiritori.png",
+    "name": "メジロマックイーン"
+  },
+  "63": {
+    "image": "mejiropalmer_icon_kiritori.png",
+    "name": "メジロパーマー"
+  },
+  "64": {
+    "image": "mejiroramonu_icon_kiritori.png",
+    "name": "メジロラモーヌ"
+  },
+  "65": {
+    "image": "mejiroryan_icon_kiritori.png",
+    "name": "メジロライアン"
+  },
+  "66": {
+    "image": "mihonobourbon_icon_kiritori.png",
+    "name": "ミホノブルボン"
+  },
+  "67": {
+    "image": "mrcb_icon_kiritori.png",
+    "name": "ミスターシービー"
+  },
+  "68": {
+    "image": "nakayamafesta_icon_kiritori.png",
+    "name": "ナカヤマフェスタ"
+  },
+  "69": {
+    "image": "naritabrian_icon_kiritori.png",
+    "name": "ナリタブライアン"
+  },
+  "70": {
+    "image": "naritataishin_icon_kiritori.png",
+    "name": "ナリタタイシン"
+  },
+  "71": {
+    "image": "naritatoproad_icon_kiritori.png",
+    "name": "ナリタトップロード"
+  },
+  "72": {
+    "image": "neouniverse_icon_kiritori.png",
+    "name": "ネオユニヴァース"
+  },
+  "73": {
+    "image": "nicenature_icon_kiritori.png",
+    "name": "ナイスネイチャ"
+  },
+  "74": {
+    "image": "nishinoflower_icon_kiritori.png",
+    "name": "ニシノフラワー"
+  },
+  "75": {
+    "image": "noreason_icon_kiritori.png",
+    "name": "ノーリーズン"
+  },
+  "76": {
+    "image": "northflight_icon_kiritori.png",
+    "name": "ノースフライト"
+  },
+  "77": {
+    "image": "oguricap_icon_kiritori.png",
+    "name": "オグリキャップ"
+  },
+  "78": {
+    "image": "orfevre_icon_kiritori.png",
+    "name": "オルフェーヴル"
+  },
+  "79": {
+    "image": "rheinkraft_icon_kiritori.png",
+    "name": "ラインクラフト"
+  },
+  "80": {
+    "image": "riceshower_icon_kiritori.png",
+    "name": "ライスシャワー"
+  },
+  "81": {
+    "image": "royceandroyce_icon_kiritori.png",
+    "name": "ロイスアンドロイス"
+  },
+  "82": {
+    "image": "sakurabakushino_icon_kiritori.png",
+    "name": "サクラバクシンオー"
+  },
+  "83": {
+    "image": "sakurachiyonoo_icon_kiritori.png",
+    "name": "サクラチヨノオー"
+  },
+  "84": {
+    "image": "sakuralaurel_icon_kiritori.png",
+    "name": "サクラローレル"
+  },
+  "85": {
+    "image": "samsonbig_icon_kiritori.png",
+    "name": "サムソンビッグ"
+  },
+  "86": {
+    "image": "satonocrown_icon_kiritori.png",
+    "name": "サトノクラウン"
+  },
+  "87": {
+    "image": "satonodiamond_icon_kiritori.png",
+    "name": "サトノダイヤモンド"
+  },
+  "88": {
+    "image": "seekingthepearl_icon_kiritori.png",
+    "name": "シーキングザパール"
+  },
+  "89": {
+    "image": "seiunsky_icon_kiritori.png",
+    "name": "セイウンスカイ"
+  },
+  "90": {
+    "image": "shinkowindy_icon_kiritori.png",
+    "name": "シンコウウィンディ"
+  },
+  "91": {
+    "image": "silencesuzuka_icon_kiritori.png",
+    "name": "サイレンススズカ"
+  },
+  "92": {
+    "image": "siriussymboli_icon_kiritori.png",
+    "name": "シリウスシンボリ"
+  },
+  "93": {
+    "image": "smartfalcon_icon_kiritori.png",
+    "name": "スマートファルコン"
+  },
+  "94": {
+    "image": "soundsofearth_icon_kiritori.png",
+    "name": "サウンズオブアース"
+  },
+  "95": {
+    "image": "specialweek_icon_kiritori.png",
+    "name": "スペシャルウィーク"
+  },
+  "96": {
+    "image": "stillinlove_icon_kiritori.png",
+    "name": "スティルインラブ"
+  },
+  "97": {
+    "image": "supercreek_icon_kiritori.png",
+    "name": "スーパークリーク"
+  },
+  "98": {
+    "image": "sweeptosho_icon_kiritori.png",
+    "name": "スイープトウショウ"
+  },
+  "99": {
+    "image": "symbolikriss_icon_kiritori.png",
+    "name": "シンボリクリスエス"
+  },
+  "100": {
+    "image": "symbolirudolf_icon_kiritori.png",
+    "name": "シンボリルドルフ"
+  },
+  "101": {
+    "image": "taikishuttle_icon_kiritori.png",
+    "name": "タイキシャトル"
+  },
+  "102": {
+    "image": "tamamocross_icon_kiritori.png",
+    "name": "タマモクロス"
+  },
+  "103": {
+    "image": "taninogimlet_icon_kiritori.png",
+    "name": "タニノギムレット"
+  },
+  "104": {
+    "image": "tapdancecity_icon_kiritori.png",
+    "name": "タップダンスシチー"
+  },
+  "105": {
+    "image": "tmoperao_icon_kiritori.png",
+    "name": "テイエムオペラオー"
+  },
+  "106": {
+    "image": "tokaiteio_icon_kiritori.png",
+    "name": "トウカイテイオー"
+  },
+  "107": {
+    "image": "tosenjordan_icon_kiritori.png",
+    "name": "トーセンジョーダン"
+  },
+  "108": {
+    "image": "transcend_icon_kiritori.png",
+    "name": "トランセンド"
+  },
+  "109": {
+    "image": "tsurumarutsuyoshi_icon_kiritori.png",
+    "name": "ツルマルツヨシ"
+  },
+  "110": {
+    "image": "twinturbo_icon_kiritori.png",
+    "name": "ツインターボ"
+  },
+  "111": {
+    "image": "verxina_icon_kiritori.png",
+    "name": "ヴィルシーナ"
+  },
+  "112": {
+    "image": "vivlos_icon_kiritori.png",
+    "name": "ヴィブロス"
+  },
+  "113": {
+    "image": "vodka_icon_kiritori.png",
+    "name": "ウオッカ"
+  },
+  "114": {
+    "image": "winningticket_icon_kiritori.png",
+    "name": "ウイニングチケット"
+  },
+  "115": {
+    "image": "winvariation_icon_kiritori.png",
+    "name": "ウインバリアシオン"
+  },
+  "116": {
+    "image": "wonderacute_icon_kiritori.png",
+    "name": "ワンダーアキュート"
+  },
+  "117": {
+    "image": "yaenomuteki_icon_kiritori.png",
+    "name": "ヤエノムテキ"
+  },
+  "118": {
+    "image": "yamaninzephyr_icon_kiritori.png",
+    "name": "ヤマニンゼファー"
+  },
+  "119": {
+    "image": "yukinobijin_icon_kiritori.png",
+    "name": "ユキノビジン"
+  },
+  "120": {
+    "image": "zennorobroy_icon_kiritori.png",
+    "name": "ゼンノロブロイ"
+  }
+}
